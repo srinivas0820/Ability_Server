@@ -1,0 +1,6 @@
+2021-01-22T14:23:56.874Z info: Server is running on Port: 4000
+2021-01-22T14:23:56.904Z info: MongoDB database connection established successfully
+2021-01-22T14:25:38.656Z info: Creating employee for the job
+2021-01-22T14:26:56.183Z info: Updating payrate for the job and employee
+2021-01-22T14:29:01.922Z info: Creating employee for the job
+2021-01-22T14:30:02.371Z info: Updating payrate for the job and employee
